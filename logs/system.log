@@ -1,0 +1,360 @@
+==============================
+System Monitoring Log - Fri Oct 17 09:47:39 PM EDT 2025
+------------------------------
+Uptime:
+ 21:47:39 up  2:05,  4 users,  load average: 0.35, 0.40, 0.35
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       2.2Gi       146Mi        57Mi       830Mi       1.0Gi
+Swap:          3.8Gi       124Mi       3.7Gi
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.4M  334M   1% /run
+/dev/sda2        25G   11G   13G  46% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.7G  5.2M  1.7G   1% /tmp
+tmpfs           336M  136K  336M   1% /run/user/1000
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           336M   76K  336M   1% /run/user/1002
+==============================
+
+==============================
+System Monitoring Log - Fri Oct 17 09:50:01 PM EDT 2025
+------------------------------
+Uptime:
+ 21:50:01 up  2:07,  4 users,  load average: 0.23, 0.35, 0.34
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       2.2Gi       144Mi        57Mi       833Mi       1.0Gi
+Swap:          3.8Gi       124Mi       3.7Gi
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.4M  334M   1% /run
+/dev/sda2        25G   11G   13G  46% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.7G  5.2M  1.7G   1% /tmp
+tmpfs           336M  136K  336M   1% /run/user/1000
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           336M   76K  336M   1% /run/user/1002
+==============================
+
+==============================
+System Monitoring Log - Fri Oct 17 09:51:01 PM EDT 2025
+------------------------------
+Uptime:
+ 21:51:01 up  2:08,  4 users,  load average: 0.16, 0.30, 0.32
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       2.2Gi       188Mi        57Mi       820Mi       1.1Gi
+Swap:          3.8Gi       129Mi       3.6Gi
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.4M  334M   1% /run
+/dev/sda2        25G   11G   13G  46% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.7G  5.2M  1.7G   1% /tmp
+tmpfs           336M  136K  336M   1% /run/user/1000
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           336M   76K  336M   1% /run/user/1002
+==============================
+
+==============================
+System Monitoring Log - Fri Oct 17 09:52:01 PM EDT 2025
+------------------------------
+Uptime:
+ 21:52:01 up  2:09,  4 users,  load average: 0.13, 0.26, 0.30
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       2.2Gi       189Mi        57Mi       820Mi       1.1Gi
+Swap:          3.8Gi       129Mi       3.6Gi
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.4M  334M   1% /run
+/dev/sda2        25G   11G   13G  46% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.7G  5.2M  1.7G   1% /tmp
+tmpfs           336M  136K  336M   1% /run/user/1000
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           336M   76K  336M   1% /run/user/1002
+==============================
+
+==============================
+System Monitoring Log - Fri Oct 17 09:53:01 PM EDT 2025
+------------------------------
+Uptime:
+ 21:53:01 up  2:10,  4 users,  load average: 0.12, 0.22, 0.29
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       2.2Gi       181Mi        57Mi       820Mi       1.1Gi
+Swap:          3.8Gi       129Mi       3.6Gi
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.4M  334M   1% /run
+/dev/sda2        25G   11G   13G  46% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.7G  5.2M  1.7G   1% /tmp
+tmpfs           336M  136K  336M   1% /run/user/1000
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           336M   76K  336M   1% /run/user/1002
+==============================
+
+==============================
+System Monitoring Log - Fri Oct 17 09:54:01 PM EDT 2025
+------------------------------
+Uptime:
+ 21:54:01 up  2:11,  4 users,  load average: 0.18, 0.23, 0.28
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       2.2Gi       172Mi        57Mi       821Mi       1.0Gi
+Swap:          3.8Gi       129Mi       3.6Gi
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.4M  334M   1% /run
+/dev/sda2        25G   11G   13G  46% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.7G  5.2M  1.7G   1% /tmp
+tmpfs           336M  136K  336M   1% /run/user/1000
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           336M   76K  336M   1% /run/user/1002
+==============================
+
+==============================
+System Monitoring Log - Fri Oct 17 09:55:01 PM EDT 2025
+------------------------------
+Uptime:
+ 21:55:01 up  2:12,  4 users,  load average: 0.06, 0.18, 0.26
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       2.3Gi       139Mi        57Mi       822Mi       1.0Gi
+Swap:          3.8Gi       129Mi       3.6Gi
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.4M  334M   1% /run
+/dev/sda2        25G   11G   13G  46% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.7G  5.2M  1.7G   1% /tmp
+tmpfs           336M  136K  336M   1% /run/user/1000
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           336M   76K  336M   1% /run/user/1002
+==============================
+
+==============================
+System Monitoring Log - Fri Oct 17 09:56:01 PM EDT 2025
+------------------------------
+Uptime:
+ 21:56:01 up  2:13,  4 users,  load average: 0.23, 0.22, 0.27
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       2.2Gi       161Mi        57Mi       822Mi       1.0Gi
+Swap:          3.8Gi       129Mi       3.6Gi
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.4M  334M   1% /run
+/dev/sda2        25G   11G   13G  46% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.7G  5.2M  1.7G   1% /tmp
+tmpfs           336M  136K  336M   1% /run/user/1000
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           336M   76K  336M   1% /run/user/1002
+==============================
+
+==============================
+System Monitoring Log - Fri Oct 17 09:57:02 PM EDT 2025
+------------------------------
+Uptime:
+ 21:57:02 up  2:14,  4 users,  load average: 0.14, 0.19, 0.26
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       2.2Gi       153Mi        57Mi       823Mi       1.0Gi
+Swap:          3.8Gi       129Mi       3.6Gi
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.4M  334M   1% /run
+/dev/sda2        25G   11G   13G  46% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.7G  5.2M  1.7G   1% /tmp
+tmpfs           336M  136K  336M   1% /run/user/1000
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           336M   76K  336M   1% /run/user/1002
+==============================
+
+==============================
+System Monitoring Log - Fri Oct 17 09:58:01 PM EDT 2025
+------------------------------
+Uptime:
+ 21:58:01 up  2:15,  4 users,  load average: 0.05, 0.16, 0.24
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       2.2Gi       158Mi        57Mi       823Mi       1.0Gi
+Swap:          3.8Gi       129Mi       3.6Gi
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.4M  334M   1% /run
+/dev/sda2        25G   11G   13G  46% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.7G  5.2M  1.7G   1% /tmp
+tmpfs           336M  136K  336M   1% /run/user/1000
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           336M   76K  336M   1% /run/user/1002
+==============================
+
+==============================
+System Monitoring Log - Fri Oct 17 09:59:01 PM EDT 2025
+------------------------------
+Uptime:
+ 21:59:01 up  2:16,  4 users,  load average: 1.09, 0.38, 0.31
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       2.2Gi       121Mi        55Mi       933Mi       1.1Gi
+Swap:          3.8Gi       121Mi       3.7Gi
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.4M  334M   1% /run
+/dev/sda2        25G   11G   13G  46% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.7G  5.2M  1.7G   1% /tmp
+tmpfs           336M  136K  336M   1% /run/user/1000
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           336M   76K  336M   1% /run/user/1002
+==============================
+
+==============================
+System Monitoring Log - Fri Oct 17 10:00:01 PM EDT 2025
+------------------------------
+Uptime:
+ 22:00:01 up  2:17,  4 users,  load average: 0.40, 0.31, 0.29
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       2.2Gi       119Mi        55Mi       933Mi       1.1Gi
+Swap:          3.8Gi       121Mi       3.7Gi
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.4M  334M   1% /run
+/dev/sda2        25G   11G   13G  46% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.7G  5.2M  1.7G   1% /tmp
+tmpfs           336M  136K  336M   1% /run/user/1000
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           336M   76K  336M   1% /run/user/1002
+==============================
+
+==============================
+System Monitoring Log - Fri Oct 17 10:01:01 PM EDT 2025
+------------------------------
+Uptime:
+ 22:01:01 up  2:18,  4 users,  load average: 0.14, 0.25, 0.26
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       2.2Gi       157Mi        55Mi       884Mi       1.1Gi
+Swap:          3.8Gi       125Mi       3.7Gi
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.4M  334M   1% /run
+/dev/sda2        25G   11G   13G  46% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.7G  5.2M  1.7G   1% /tmp
+tmpfs           336M  136K  336M   1% /run/user/1000
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           336M   76K  336M   1% /run/user/1002
+==============================
+
+==============================
+System Monitoring Log - Fri Oct 17 10:02:01 PM EDT 2025
+------------------------------
+Uptime:
+ 22:02:01 up  2:19,  4 users,  load average: 0.05, 0.20, 0.25
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       2.2Gi       162Mi        55Mi       884Mi       1.1Gi
+Swap:          3.8Gi       125Mi       3.7Gi
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.4M  334M   1% /run
+/dev/sda2        25G   11G   13G  46% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.7G  5.2M  1.7G   1% /tmp
+tmpfs           336M  136K  336M   1% /run/user/1000
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           336M   76K  336M   1% /run/user/1002
+==============================
+
+==============================
+System Monitoring Log - Fri Oct 17 10:03:01 PM EDT 2025
+------------------------------
+Uptime:
+ 22:03:01 up  2:20,  4 users,  load average: 0.29, 0.24, 0.26
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           3.3Gi       2.2Gi       153Mi        55Mi       886Mi       1.1Gi
+Swap:          3.8Gi       125Mi       3.7Gi
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           336M  2.4M  334M   1% /run
+/dev/sda2        25G   11G   13G  46% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.7G  5.2M  1.7G   1% /tmp
+tmpfs           336M  136K  336M   1% /run/user/1000
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           336M   76K  336M   1% /run/user/1002
+==============================
+
